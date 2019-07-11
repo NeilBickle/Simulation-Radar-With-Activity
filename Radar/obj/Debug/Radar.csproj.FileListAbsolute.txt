@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Radar\Radar\bin\Debug\Radar.exe.config
+C:\Users\User\source\repos\Radar\Radar\bin\Debug\Radar.exe
+C:\Users\User\source\repos\Radar\Radar\bin\Debug\Radar.pdb
+C:\Users\User\source\repos\Radar\Radar\obj\Debug\Radar.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Radar\Radar\obj\Debug\Radar.Form1.resources
+C:\Users\User\source\repos\Radar\Radar\obj\Debug\Radar.Properties.Resources.resources
+C:\Users\User\source\repos\Radar\Radar\obj\Debug\Radar.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\Radar\Radar\obj\Debug\Radar.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Radar\Radar\obj\Debug\Radar.exe
+C:\Users\User\source\repos\Radar\Radar\obj\Debug\Radar.pdb
