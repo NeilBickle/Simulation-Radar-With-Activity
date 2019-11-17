@@ -8,3 +8,12 @@ C:\Users\User\source\repos\Radar\Radar\obj\Debug\Radar.csproj.GenerateResource.C
 C:\Users\User\source\repos\Radar\Radar\obj\Debug\Radar.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\Radar\Radar\obj\Debug\Radar.exe
 C:\Users\User\source\repos\Radar\Radar\obj\Debug\Radar.pdb
+C:\Users\Bickell\Documents\GitHub\Simulation-Radar-With-Activity\Radar\bin\Debug\Radar.exe.config
+C:\Users\Bickell\Documents\GitHub\Simulation-Radar-With-Activity\Radar\bin\Debug\Radar.exe
+C:\Users\Bickell\Documents\GitHub\Simulation-Radar-With-Activity\Radar\bin\Debug\Radar.pdb
+C:\Users\Bickell\Documents\GitHub\Simulation-Radar-With-Activity\Radar\obj\Debug\Radar.csprojAssemblyReference.cache
+C:\Users\Bickell\Documents\GitHub\Simulation-Radar-With-Activity\Radar\obj\Debug\Radar.Properties.Resources.resources
+C:\Users\Bickell\Documents\GitHub\Simulation-Radar-With-Activity\Radar\obj\Debug\Radar.csproj.GenerateResource.cache
+C:\Users\Bickell\Documents\GitHub\Simulation-Radar-With-Activity\Radar\obj\Debug\Radar.exe
+C:\Users\Bickell\Documents\GitHub\Simulation-Radar-With-Activity\Radar\obj\Debug\Radar.pdb
+C:\Users\Bickell\Documents\GitHub\Simulation-Radar-With-Activity\Radar\obj\Debug\Radar.FrmMain.resources
